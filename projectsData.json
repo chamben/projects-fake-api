@@ -2,25 +2,25 @@
   {
     "title": "Trivia Quiz",
     "description": " web app is dedicated for people who love to test their knowledge in different domains like science, sports, art... It is developed using ReactJS.",
-    "demoUrl": "trivia-quiz-chaymae.netlify.app",
+    "demoUrl": "https://trivia-quiz-chaymae.netlify.app",
     "githubUrl": "https://github.com/ChaymaeBenayad/Trivia-Quiz"
   },
   {
     "title": "Tenzi",
     "description": "is a fun game where the player gets 10 dice. He has to roll and roll them until he gets all its dice on the same number. It is developed using ReactJS.",
-    "demoUrl": "tenzi-game-chaymae.netlify.app",
+    "demoUrl": "https://tenzi-game-chaymae.netlify.app",
     "githubUrl": "https://github.com/ChaymaeBenayad/Tenzi-Dice-Game"
   },
   {
     "title": "Markdown Notes",
     "description": "web app is created to add formatting elements to plaintext text documents. Useful for notes, README files...It is developed using ReactJS.",
-    "demoUrl": "markdown-notes-chaymae.netlify.app",
+    "demoUrl": "https://markdown-notes-chaymae.netlify.app",
     "githubUrl": "https://github.com/ChaymaeBenayad/Markdown-Notes"
   },
   {
     "title": "Meme Creator",
     "description": "web app is dedicated for people who love creating funny memes. It interacts with an API to get memes data and it is developed using ReactJS.",
-    "demoUrl": "meme-creator-chaymae.netlify.app",
+    "demoUrl": "https://meme-creator-chaymae.netlify.app",
     "githubUrl": "https://github.com/ChaymaeBenayad/Meme-Creator"
   },
   {
