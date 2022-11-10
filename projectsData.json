@@ -24,7 +24,6 @@
     "githubUrl": "https://github.com/ChaymaeBenayad/Meme-Creator"
   },
   {
-    "imgUrl": "img/proj/project-cover1.png",
     "title": "Cookbook",
     "description": "web app is dedicated for people who love cooking, want to discover new recipes and add their own recipes. It is developed using HTML5, SCSS and JavaScript.",
     "demoUrl": "https://cookbook-recipe-app.netlify.app",
