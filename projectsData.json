@@ -13,7 +13,7 @@
   },
   {
     "title": "Markdown Notes",
-    "description": "web app is created to add formatting elements to plaintext text documents. It can be used for writing notes, README files...It is developed using ReactJS.",
+    "description": "web app is created to add formatting elements to plaintext text documents. Useful for notes, README files...It is developed using ReactJS.",
     "demoUrl": "markdown-notes-chaymae.netlify.app",
     "githubUrl": "https://github.com/ChaymaeBenayad/Markdown-Notes"
   },
@@ -43,7 +43,7 @@
   },
   {
     "title": "DigiXpert",
-    "description": "landing page is where I had put in practice what I learned in advanced DOM concepts and events handling. It is developed using HTML5, CSS3 and JavaScript.",
+    "description": "landing page is where I had put in practice what I learned in advanced DOM & events handling. It is developed using HTML5, CSS3 and JavaScript.",
     "demoUrl": "https://digi-expert-agency.netlify.app",
     "githubUrl": "https://github.com/ChaymaeBenayad/digital-agency"
   },
