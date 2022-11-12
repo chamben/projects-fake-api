@@ -1,7 +1,7 @@
 [
   {
     "title": "Trivia Quiz",
-    "description": " web app is dedicated for people who love to test their knowledge in different domains like science, sports, art... It is developed using ReactJS.",
+    "description": "web app is dedicated for people who love to test their knowledge in different domains like science, sports, art... It is developed using ReactJS.",
     "demoUrl": "https://trivia-quiz-chaymae.netlify.app",
     "githubUrl": "https://github.com/ChaymaeBenayad/Trivia-Quiz"
   },
