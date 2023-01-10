@@ -1,5 +1,17 @@
 [
   {
+    "title": "Mail Express",
+    "description": "web app allows users to stay connected by sending emails from any device. Developed using React.js,Axios,Node.js,Express.js and Nodemailer.",
+    "demoUrl": "https://email-sender-hyv6.onrender.com",
+    "githubUrl": "https://github.com/ChaymaeBenayad/email-sender-frontend"
+  },
+  {
+    "title": "Expensio",
+    "description": "web app allows users to easily record and track their daily expenses and view results in a bar charts. Developed using React.js and Chart.js.",
+    "demoUrl": "https://expensio.netlify.app/",
+    "githubUrl": "https://github.com/ChaymaeBenayad/Expensio-App"
+  },
+  {
     "title": "Trivia Quiz",
     "description": "web app is dedicated for people who love to test their knowledge in different domains like science, sports, art... It is developed using ReactJS.",
     "demoUrl": "https://trivia-quiz-chaymae.netlify.app",
