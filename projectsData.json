@@ -7,9 +7,9 @@
   },
   {
     "title": "Expensio",
-    "description": "web app allows users to easily record and track their daily expenses and view results in a bar charts. Developed using React.js and Chart.js.",
-    "demoUrl": "https://expensio.netlify.app/",
-    "githubUrl": "https://github.com/ChaymaeBenayad/Expensio-App"
+    "description": "web app allows users to record and track their daily expenses. Developed using React.js,Axios,Node.js,Express.js,MongoDB and Chart.js.",
+    "demoUrl": "https://expensio.onrender.com",
+    "githubUrl": "https://github.com/ChaymaeBenayad/Expensio-Frontend"
   },
   {
     "title": "Trivia Quiz",
@@ -82,5 +82,24 @@
     "description": "landing page is dedicated for agencies that aim to help companies to elevate their visual branding. It is developed using HTML5, CSS3, JavaScript and jQuery.",
     "demoUrl": "https://content-creation-branding.netlify.app",
     "githubUrl": "https://github.com/ChaymaeBenayad/Content-Creation-Branding"
-  }
+  },
+  {
+    "title": "Student Management System",
+    "description": "web app allows the school admin to easily manage students. Developed using Spring Boot,JPA/Hibernate,Angular,Bootstrap and MySQL.",
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/ChaymaeBenayad/ENSAH-Student-Management"
+  },
+  {
+    "title": "Events Countdown Timer",
+    "description": "mobile app provides a decrementing display of months,days,hours,minutes & seconds of an event. Developed using Java, XML & MySQL.",
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/ChaymaeBenayad/Events-Countdown-Timer"
+  },
+    {
+    "title": "Library Management System",
+    "description": "web app allows the library admin to easily manage book loans,reservations & returns. Developed using Java, JavaFX & MySQL.",
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/ChaymaeBenayad/ENSAHLibraryManagement"
+  },
+
 ]
