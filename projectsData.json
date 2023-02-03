@@ -100,6 +100,5 @@
     "description": "web app allows the library admin to easily manage book loans,reservations & returns. Developed using Java, JavaFX & MySQL.",
     "demoUrl": "#",
     "githubUrl": "https://github.com/ChaymaeBenayad/ENSAHLibraryManagement"
-  },
-
+  }
 ]
